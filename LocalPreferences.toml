@@ -1,0 +1,2 @@
+[DDPM]
+kernel_backend="CUDA"
